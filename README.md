@@ -14,7 +14,7 @@ That experience pushed me toward software development. I joined **Brototype** to
 
 Since then, I've been learning by building: real projects, real constraints, real debugging sessions at 2 AM.
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ Since then, I've been learning by building: real projects, real constraints, rea
 
 ##  What I've Built
 
-**🛒 ChoiceX — E-Commerce Platform**
+** ChoiceX — E-Commerce Platform**
 A full-stack Flutter e-commerce app supporting **Admin, Seller, and Customer** roles, with role-based access control and scalable state management using Provider, BLoC, and GetX.
 - Modules for products, categories, inventory, sellers, customers, cart, wishlist, orders, coupons & payments
 - Integrated Firebase Authentication, Cloud Firestore, Firebase Storage, REST APIs, and Stripe Payment Gateway
@@ -35,14 +35,14 @@ A full-stack Flutter e-commerce app supporting **Admin, Seller, and Customer** r
 ** Movie Review Hub**
 A responsive movie review app with multi-user support for Admin and User roles, authentication, and dynamic CRUD operations — using **Hive** for optimized local storage.
 
-** News App**
+** News App **
 A news app built with Firebase Authentication and the News API, using **Firebase Remote Config** for dynamic, country-based configuration.
 
-** To-Do List App**
+** To-Do List App **
 A task management app with Firestore CRUD operations — create, update, delete, set due dates, and track completion status.
 
-** Responsive Website Clones**
-Pixel-inspired clones of **7UP, Tesla, and CopyCo**, built with HTML, CSS, Bootstrap, and JavaScript to practice responsive layouts.
+** Responsive Website Clones **
+Pixel-inspired clones of **7UP, Tesla, and Kopilko**, built with HTML, CSS, Bootstrap, and JavaScript to practice responsive layouts.
 
 ##  Education
 
