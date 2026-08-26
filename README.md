@@ -26,7 +26,7 @@ Since then, I've been learning by building: real projects, real constraints, rea
 
 ##  What I've Built
 
-**ChoiceX — E-Commerce Platform**
+# ChoiceX — E-Commerce Platform
 A full-stack Flutter e-commerce app supporting **Admin, Seller, and Customer** roles, with role-based access control and scalable state management using Provider, BLoC, and GetX.
 - Modules for products, categories, inventory, sellers, customers, cart, wishlist, orders, coupons & payments
 - Integrated Firebase Authentication, Cloud Firestore, Firebase Storage, REST APIs, and Stripe Payment Gateway
