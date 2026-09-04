@@ -65,10 +65,5 @@ Malayalam (Native) &nbsp;•&nbsp; English (Professional Working Proficiency)
 
 I'm a quick learner, dedicated, and genuinely enthusiastic about technology. As a fresher, my goal is simple: contribute meaningfully, keep learning, sharpen my skills, and grow into a strong professional Flutter developer.
 
-##  Connect With Me
-
- [basithchempan8590@gmail.com](mailto:basithchempan8590@gmail.com) &nbsp;•&nbsp;  [LinkedIn](#) &nbsp;•&nbsp;  [GitHub](#)
-
----
 
 *I'm always ready to learn new technologies, I enjoy improving my skills every day, and I'm looking for opportunities to grow.*
