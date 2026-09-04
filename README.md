@@ -4,7 +4,7 @@
 
 ###  Flutter Developer | Building Mobile & Web Applications from a single codebase
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+(Flutter+%26+Dart);Web+Application+Developer+(HTML%2C+CSS%2C+JS);Firebase+%7C+REST+APIs+%7C+Clean+Architecture;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+(Flutter+%26+Dart);Web+Application+Developer+(Flutter+%26+Dart);Firebase+%7C+REST+APIs+%7C+Clean+Architecture;Always+learning%2C+always+building" alt="Typing SVG" />
 
  Kottakkal, Kerala, India 🇮🇳
 
