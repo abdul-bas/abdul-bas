@@ -2,9 +2,9 @@
 
 # Hi there, I'm Abdul Basith 
 
-### 📱 Flutter Developer | Building cross-platform apps from a single codebase
+###  Flutter Developer | Building Mobile & Web Applications from a single codebase
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=550&lines=Flutter+%26+Dart+Developer;Firebase+%7C+REST+APIs+%7C+Clean+Architecture;Turning+confusion+into+working+code;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Mobile+App+Developer+(Flutter+%26+Dart);Web+Application+Developer+(HTML%2C+CSS%2C+JS);Firebase+%7C+REST+APIs+%7C+Clean+Architecture;Always+learning%2C+always+building" alt="Typing SVG" />
 
  Kottakkal, Kerala, India 🇮🇳
 
@@ -25,7 +25,9 @@ I started with a **B.Com degree** from Calicut University — not a computer sci
 
 That pushed me toward software development. I joined **Brototype** to sharpen my technical and interpersonal skills, and chose **Flutter** as my domain — drawn to building for multiple platforms from one codebase.
 
-Since then, I've been learning by building: real projects, real constraints, real debugging sessions at 2 AM. 🌙
+I work across **both mobile and web application development** — building cross-platform mobile apps with Flutter & Dart, and responsive web applications with HTML, CSS, JavaScript, and Bootstrap.
+
+Since then, I've been learning by building: real projects, real constraints, real debugging sessions at 2 AM. 
 
 ---
 
@@ -73,7 +75,9 @@ Since then, I've been learning by building: real projects, real constraints, rea
 
 ##  What I've Built
 
-###  [ChoiceX — E-Commerce Platform](https://github.com/abdul-bas)
+###  Mobile Applications
+
+####  [ChoiceX — E-Commerce Platform](https://github.com/abdul-bas)
 A full-stack Flutter e-commerce app supporting **Admin, Seller, and Customer** roles, with role-based access control and scalable state management using Provider, BLoC, and GetX.
 
 -  Modules for products, categories, inventory, sellers, customers, cart, wishlist, orders, coupons & payments
@@ -84,28 +88,30 @@ A full-stack Flutter e-commerce app supporting **Admin, Seller, and Customer** r
 
 ---
 
-###  [Movie Review Hub](https://github.com/abdul-bas/movie_review_hub)
+####  [Movie Review Hub](https://github.com/abdul-bas/movie_review_hub)
 A responsive movie review app with multi-user support for Admin and User roles, authentication, and dynamic CRUD operations — using **Hive** for optimized local storage.
 
 `Flutter` `Dart` `Hive` `SharedPreferences`
 
 ---
 
-###  [News App](https://github.com/abdul-bas/news_app)
+####  [News App](https://github.com/abdul-bas/news_app)
 A news app built with Firebase Authentication and the News API, using **Firebase Remote Config** for dynamic, country-based configuration.
 
 `Flutter` `Dart` `REST API`
 
 ---
 
-###  [To-Do List App](https://github.com/abdul-bas/todo-list-app)
+####  [To-Do List App](https://github.com/abdul-bas/todo-list-app)
 A task management app with Firestore CRUD operations — create, update, delete, set due dates, and track completion status.
 
 `Flutter` `Dart` `Firebase` `Cloud Firestore`
 
 ---
 
-###  Responsive Website Clones
+###  Web Applications
+
+####  Responsive Website Clones
 Pixel-inspired clones of **[7UP](https://github.com/abdul-bas/7up_clone)**, **[Tesla](https://github.com/abdul-bas/tesla_clone)**, and **[Kopiko](https://github.com/abdul-bas/kopiko_responsive_web)**, built to practice responsive layouts.
 
 `HTML` `CSS` `Bootstrap` `JavaScript`
@@ -139,9 +145,9 @@ Pixel-inspired clones of **[7UP](https://github.com/abdul-bas/7up_clone)**, **[T
 
 ##  What Drives Me
 
-I'm a quick learner, dedicated, and genuinely enthusiastic about technology. As a fresher, my goal is simple: **contribute meaningfully, keep learning, sharpen my skills, and grow into a strong professional Flutter developer.**
+I'm a quick learner, dedicated, and genuinely enthusiastic about technology. As a fresher, my goal is simple: **contribute meaningfully, keep learning, sharpen my skills, and grow into a strong professional developer across both mobile (Flutter) and web application development.**
 
-> I'm always ready to learn new technologies, I enjoy improving my skills every day, and I'm looking for opportunities to grow. 🚀
+> I'm always ready to learn new technologies, I enjoy improving my skills every day, and I'm looking for opportunities to grow. 
 
 <div align="center">
 
