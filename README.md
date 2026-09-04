@@ -2,7 +2,7 @@
 
 I'm a **Flutter Developer** based in Kottakkal, Kerala, India 🇮🇳, building mobile and web applications with a single codebase and a curious mind.
 
- Kottakkal, Kerala &nbsp;|&nbsp;  basithchempan8590@gmail.com &nbsp;|&nbsp;  [LinkedIn](#) &nbsp;|&nbsp;  [GitHub](#)
+ Kottakkal, Kerala &nbsp;|&nbsp;  basithchempan8590@gmail.com &nbsp;|&nbsp;  [LinkedIn](https://www.linkedin.com/in/abdul-basith-chempan-b17b09324/) &nbsp;|&nbsp;  [Portfolio](https://abdul-bas.github.io/portfolio/)
 
 ##  About Me
 
