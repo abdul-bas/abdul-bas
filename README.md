@@ -35,43 +35,21 @@ Since then, I've been learning by building: real projects, real constraints, rea
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-<div align="center">
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Dart (primary), JavaScript(basic), HTML(basic), CSS (basic)|
+| **Frameworks & UI** | Flutter (primary) |
+| **State Management** | BLoC, Provider, GetX |
+| **Firebase & Backend** | Authentication (Email, Google, Facebook), Cloud Firestore, FCM, Storage, Remote Config, Analytics, Crashlytics |
+| **API Integration** | REST APIs, Dio|
+| **Local Storage** | Hive, SQLite, SharedPreferences, Flutter Secure Storage |
+| **Architecture** | Clean Architecture, Repository Pattern, Layered Architecture, MVVM, MVC |
+| **Tools** | Git & GitHub, Android Studio, VS Code, Figma |
+| **Problem Solving** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Debugging |
 
-**Languages**
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**State Management**
-
-![Provider](https://img.shields.io/badge/Provider-38BDF8?style=for-the-badge&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-38BDF8?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-38BDF8?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend & Storage**
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logo=hive&logoColor=white)
-![SharedPreferences](https://img.shields.io/badge/SharedPreferences-38BDF8?style=for-the-badge)
-![Secure Storage](https://img.shields.io/badge/Secure%20Storage-38BDF8?style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
