@@ -8,10 +8,14 @@
 
  Kottakkal, Kerala, India 🇮🇳
 
-[![Email](https://img.shields.io/badge/Email-basithchempan8590%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basithchempan8590@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Basith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-basith-chempan-b17b09324/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdul-bas.github.io/portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-abdul--bas-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdul-bas)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:basithchempan8590@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-basith-chempan-b17b09324/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-02569B?style=flat-square&logo=flutter&logoColor=white)](https://abdul-bas.github.io/portfolio/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdul-bas)
+
+</div>
 
 </div>
 
