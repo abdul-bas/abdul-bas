@@ -5,7 +5,7 @@
 ### Flutter Developer Building Mobile & Web Applications with a Single Codebase
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Flutter+%26+Dart+Developer;Android+%26+Web+Application+Development;Firebase+%7C+REST+APIs+%7C+JSON;BLoC+%7C+Provider+%7C+GetX;Clean+Architecture+%7C+MVVM;Hive+%7C+SQLite+%7C+SharedPreferences;Dio+%7C+API+Integration+%7C+WebSockets;Git+%26+GitHub+%7C+Debugging;Responsive+UI+%7C+Custom+Widgets;DSA+%7C+Problem+Solving;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=850&lines=Flutter+%26+Dart+Development;Advanced+State+Management+(Provider%2C+GetX+%26+BLoC);REST+API+Integration+%26+Dio;Strong+Understanding+of+Data+Structures+%26+Algorithms;UI+Development+%26+Responsive+Design;Debugging+%26+Problem+Solving;Software+Architecture+%26+Clean+Architecture;Local+Database+Management+(Hive%2C+SQLite);Firebase+%26+Its+Services;Version+Control+with+Git+%26+GitHub;Figma+%26+VS+Code" alt="Typing SVG" />
 
  Kottakkal, Kerala, India 🇮🇳
 
